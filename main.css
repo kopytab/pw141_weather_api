@@ -1,0 +1,104 @@
+* {
+    
+    font-family: serif;
+    font-weight: 400;
+
+}
+
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/007/950/893/non_2x/blue-sky-with-white-cloud-background-free-photo.jpg);
+}
+
+#cityName {
+    min-width: 60%;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+
+#inputfield {
+    max-width: 50%;
+    
+    
+    margin-bottom: 5%;
+    margin-top: 2%;
+    
+   
+
+}
+
+#weatherbtn {
+    border: none;
+    background-color: rgb(117, 212, 250);
+    color: white;
+    border-radius: 10px;
+    min-width: 10%;
+}
+
+#city {
+    justify-content: center;
+    margin-bottom: 5%;
+    
+
+}
+
+/* #data {
+    background-color: rgb(189, 224, 255);
+    border-radius: 30px;
+} */
+
+#nameofcity {
+    font-size: 100px;
+}
+
+#firstrow {
+    justify-content: space-around;
+}
+
+#temperature {
+    background-color: skyblue;
+    border-radius: 5%;
+    max-width: 15%;
+    margin-left: 16%;
+    
+    
+
+}
+
+
+#feels {
+background-color: skyblue;
+border-radius: 5%;
+max-width: 15%;
+margin-right: 16%;
+}
+
+#high{
+    background-color: skyblue;
+    border-radius: 5%;
+    
+    
+    max-width: 15%;
+}
+
+#low {
+    background-color: skyblue;
+    border-radius: 5%;
+    
+    max-width: 15%;
+}
+
+#cond {
+    background-color: skyblue;
+    border-radius: 5%;
+   
+    max-width: 15%;
+}
+
+#secondrow {
+    justify-content: space-around;
+}
+
+#enter{
+    font-size: x-large;
+}
